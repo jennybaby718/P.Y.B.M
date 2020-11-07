@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663448743966",
+    "firebase_url": "https://prettyyougbottelmodel.firebaseio.com",
+    "project_id": "prettyyougbottelmodel",
+    "storage_bucket": "prettyyougbottelmodel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663448743966:android:bb833dcc45df2770fabe0f",
+        "android_client_info": {
+          "package_name": "P.Y.B.M"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663448743966-8ed7s03ej7lvnk0gpnqf2k6jkg3l73rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1kSRIYpTudsN1gqFz1yrbs2C6kjLsStg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663448743966-8ed7s03ej7lvnk0gpnqf2k6jkg3l73rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
